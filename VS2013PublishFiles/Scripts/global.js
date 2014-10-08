@@ -1,0 +1,1 @@
+﻿var globalVar = "dev global";
